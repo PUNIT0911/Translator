@@ -11,3 +11,4 @@ Hepsi bir arada çok dilli çevirmen ve ses asistanınız!
 [2025-06-25_13-06-54] ENGLISH: how are you | ITALIAN: Come stai
 [2025-06-25_13-07-24] ENGLISH: how are you | ENGLISH: how are you
 [2025-06-25_13-08-00] ENGLISH: how are you Super Translator AI Studio | ENGLISH: how are you Super Translator AI Studio
+[2025-07-01_12-21-35] ENGLISH: punit dhokiya  | ARABIC: Punit Dhokiya
